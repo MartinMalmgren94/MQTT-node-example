@@ -8,3 +8,6 @@ The only thing you need to get this example going is node.js installed on you co
 1. ```npm install (terminal 1)```
 2. ```node publish.js (terminal 1)```
 3. ```node sub.js (terminal 2)```
+
+## What this can be simulated as:
+In this example can be between two Iot devices or between a Iot device and your server. With this you can achive what ever your use case is. Can even be more the just 2 different devices.
